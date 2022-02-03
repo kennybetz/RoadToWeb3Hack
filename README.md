@@ -3,7 +3,7 @@ ETHGlobal Road To Web3 Hackathon 2022
 
 <b>Accredited Investor NFT</b>
 
-Accredited Investor Defined: Wiki
+Accredited Investor Defined: <a href="https://en.wikipedia.org/wiki/Accredited_investor">Wiki</a>
 An accredited or sophisticated investor is a qualifying status that allows an individual access to investing in financial instruments deemed too risky for the average investor. In the US the Securities Exchange Commision creates the qualification standards and many countries have similar programs in place. A common qualification is the fiat equivalent of $1m US in assets over an individual's liabilities.
 
 Why this matters:
